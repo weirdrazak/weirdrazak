@@ -42,7 +42,7 @@ Machine Learning and Data Science.
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weirdrazak&show_icons=true&theme=tokyonight&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weirdrazak&show_icons=true&theme=tokyonight&include_all_commits=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weirdrazak&layout=compact&theme=tokyonight)
 
