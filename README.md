@@ -42,8 +42,6 @@ Machine Learning and Data Science.
 
 ## 📊 GitHub Statistics
 
-## ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weirdrazak&show_icons=true&theme=tokyonight&include_all_commits=false)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=weirdrazak&layout=compact&theme=tokyonight)
 
 ## 🔥 GitHub Streak
@@ -59,9 +57,6 @@ Diabetic retinopathy lesion segmentation...
 
 ### Weirdo Shop
 MERN-stack e-commerce application...
-
-### Solar Filament Segmentation
-Computer vision project using solar imagery...
 
 ---
 
